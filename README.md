@@ -1,2 +1,1 @@
-# EasyShop
-Electronic Shopping Portal
+This project includes an electronic shop.
